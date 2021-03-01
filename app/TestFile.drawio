@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T08:38:39.416Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="U_agfp-0af0wGT1O-9BB" version="14.4.3" type="github"><diagram id="0rKQK3Qr-0jCW9UDkUmq" name="Page-1">jZLJboMwEIafhmMlsBOSHtuUblJPSN1uDh6wJYORYwr06WvqYVMUKSfPfLN45rcDeii7J8Nq8aY5qICEvAvoQ0AICePYHQPpPYnC3caTwkiObAap/IUxEWkjOZxWiVZrZWW9hpmuKsjsijFjdLtOy7Va31qzAs5AmjF1Tj8kt8LTPdnN/BlkIcabo/jWR0o2JuMmJ8G4bheIJgE9GK2tt8ruAGpQb9TF1z1eiE6DGajsNQWf0Rd9IXHeVe+v9fGYf2+Tuxviu/ww1eDCOKztRwWMbioOQ5MwoPetkBbSmmVDtHWP7piwpXJe5ExsB8ZCd3HOaNre/RvQJVjTuxQs2KNe+GM26Laz+iREJhbKb5ExfPBiajxr4gyUZXRn+f9ji19Mkz8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-01T09:10:01.202Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="psAHlKAVkYDca-vddg5Y" version="14.4.3" type="github">
+  <diagram id="0rKQK3Qr-0jCW9UDkUmq" name="Page-1">
+    <mxGraphModel dx="2066" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X1Y3I26fxnVJpbbfZ5EA-2" value="WeMusicApplictionLike" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="80" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s5S7ESRwDYINNiUCkRA5-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-10" width="100" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="s5S7ESRwDYINNiUCkRA5-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-40" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
